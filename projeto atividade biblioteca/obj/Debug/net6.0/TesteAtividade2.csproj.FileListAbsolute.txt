@@ -1,0 +1,15 @@
+C:\Users\gabri\source\repos\TesteAtividade2\bin\Debug\net6.0\TesteAtividade2.exe
+C:\Users\gabri\source\repos\TesteAtividade2\bin\Debug\net6.0\TesteAtividade2.deps.json
+C:\Users\gabri\source\repos\TesteAtividade2\bin\Debug\net6.0\TesteAtividade2.runtimeconfig.json
+C:\Users\gabri\source\repos\TesteAtividade2\bin\Debug\net6.0\TesteAtividade2.dll
+C:\Users\gabri\source\repos\TesteAtividade2\bin\Debug\net6.0\TesteAtividade2.pdb
+C:\Users\gabri\source\repos\TesteAtividade2\obj\Debug\net6.0\TesteAtividade2.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\TesteAtividade2\obj\Debug\net6.0\TesteAtividade2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\TesteAtividade2\obj\Debug\net6.0\TesteAtividade2.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\TesteAtividade2\obj\Debug\net6.0\TesteAtividade2.AssemblyInfo.cs
+C:\Users\gabri\source\repos\TesteAtividade2\obj\Debug\net6.0\TesteAtividade2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\TesteAtividade2\obj\Debug\net6.0\TesteAtividade2.dll
+C:\Users\gabri\source\repos\TesteAtividade2\obj\Debug\net6.0\refint\TesteAtividade2.dll
+C:\Users\gabri\source\repos\TesteAtividade2\obj\Debug\net6.0\TesteAtividade2.pdb
+C:\Users\gabri\source\repos\TesteAtividade2\obj\Debug\net6.0\TesteAtividade2.genruntimeconfig.cache
+C:\Users\gabri\source\repos\TesteAtividade2\obj\Debug\net6.0\ref\TesteAtividade2.dll
